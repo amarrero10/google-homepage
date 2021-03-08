@@ -1,0 +1,1 @@
+This is my first project with the Odin project. Still not very familiar with Git but I am hoping that it won't be challenging to get used to. This project consists of making a copy of the Google homepage. Semms pretty good for a beginner project. 
